@@ -1,0 +1,124 @@
+
+ TSIM/ERC32 - remote SPARC simulator, version 1.0.10 (evaluation version)
+
+ Copyright (C) 2001, Gaisler Research - all rights reserved.
+ For latest updates, go to http://www.gaisler.com/
+ Comments or bug-reports to tsim@gaisler.com
+
+libreadline.so.3: cannot open shared object file: No such file or directory
+serial port A on stdin/stdout
+allocated 4096 K RAM memory
+allocated 2048 K ROM memory
+section: .text at 0x2000000, size 298416 bytes
+section: .data at 0x2048db0, size 13804 bytes
+tsim> resuming at 0x02000000
+
+[ 0.002886700] >>> Head
+[ 0.059898100] --- Head
+[ 0.072155600] >>> Distance
+[ 0.144394500] --- Distance
+[ 0.158699800] >>> Steering
+[ 0.221766700] --- Steering
+[ 0.237389300] >>> Risks
+[ 0.277549400] >>> Display
+[ 0.296683800] ............# Distance:  90
+[ 0.334133600] >>> Distance
+[ 0.401275400] >>> Head
+[ 0.458288100] --- Head
+[ 0.475309100] --- Distance
+[ 0.489614200] >>> St======> Interrupcion Externa 2 
+[ 0.518461200] >>> Iniciando tarea esporadica: MODE : 1
+[ 0.556268900] --- Finishing tarea esporadicaeering
+[ 0.611943700] >>> Distance
+[ 0.684150600] --- Distance
+[ 0.717662700] --- Steering
+[ 0.731968200] >>> Steering
+[ 0.795035
+[ 0.800636700] >>> Head
+[ 0.857682200] --- Head600] --- Steering
+[ 0.878648500] ............# Speed:  75
+[ 0.913386200] >>> Distance
+[ 0.985762000] --- Distance
+[======> Interrupcion Externa 2 
+[ 1.018681100] >>> Iniciando tarea esporadica
+[ 1.049169400] ............Light: _off_: MODE : 2
+[ 1.081472700] --- Finishing tarea esporadica
+[ 1.105023900] >>> Steering
+[ 1.168094700] --- Steering 1.000066600] --- Display
+[ 1.195199
+[ 1.200831700] >>> Head
+[ 1.257880200] --- Head
+[ 1.270137600] >>> Distance
+[ 1.342384200] --- Distance800] >>> Display
+[ 1.370222500] ............# Distance:  75
+[ 1.407863200] >>> Steering
+[ 1.470904000] --- Steering
+[ 1.485214700] ............# Speed:  80
+[ 1.519839000] >>> Distance
+[ 1.592053400] -
+[ 1.600726900] >>> Head
+[ 1.657774000] --- Head-- Distance
+[ 1.675663500] --- Display
+[ 1.689492800] >>> Pr======> Interrupcion Externa 2 
+[ 1.718338200] >>> Iniciando tarea esporadica: MODE : 3
+[ 1.756337000] --- Finishing tarea esporadica
+[ 1.779889000] >>> Steering
+[ 1.809365400] >>> Distance
+[ 1.881579600] --- Distance
+[ 1.928927700] --- Steeringograma Principal
+[ 1.951425000] --- Programa Principal
+[ 2.000430700] >>> Head
+[ 2.057445900] --- Head
+[ 2.069703400] >>> Display
+[ 2.088867300] ............# Distance:  65
+[ 2.126318300] >>> Distance
+[ 2.198531900] --- Distance
+[ 2.212836600] >>> Steering
+[ 2.275908500] --- Steering
+[ 2.290219400] ............# Speed:  90
+[ 2.324736200] --- Display
+[ 2.400420500] >>> Head
+[ 2.457655900] --- Head
+[ 2.469913300] >>> Distance
+[ 2.542158700] --- Distance
+[ 2.556463700] >>> Steering======> Interrupcion Externa 2 
+[ 2.625578400] >>> Iniciando tarea esporadica: MODE : 1
+[ 2.663385400] --- Finishing tarea esporadica
+[ 2.6
+[ 2.701051200] >>> Distance
+[ 2.773298100] --- Distance98010400] --- Steering
+[ 2.800344700] >>> Head
+[ 2.857361000] --- Head
+[ 2.869617700] >>> Steering
+[ 2.932690200] --- Steering
+[ 3.000419900] >>> Distance
+[ 3.072634200] --- Distance
+[ 3.086939600] >>> Display
+[ 3.100762800] ............# Symptom: DISTANCIA INSEGURA
+[ 3.137571700] ............# Distance:  30
+[ 3.175021700] >>> Steering
+[ 3.204533500] >>> Head
+[ 3.261550700] --- Head
+[ 3.300925200] >>> Distance
+[ 3.373139700] --- Distance
+[ 3.392874100] --- Steering
+[ 3.407184600] ............# Speed:  105
+[ 3.442214700] --- Display======> Interrupcion Externa 2 
+[ 3.517940400] >>> Iniciando tarea esporadica
+[ 3.548429400] ............Light: _off_: MODE : 2
+[ 3.580732400] --- Finishing tarea esp
+[ 3.600699800] >>> Head
+[ 3.657748200] --- Headoradica
+[ 3.673589300] >>> Distance
+[ 3.745834900] --- Distance
+[ 3.760140500] >>> Steering
+[ 3.823211700] --- Steering
+[ 3.850423500] >>> Steering
+[ 3.901895200] >>> Distance
+[ 3.974300900] --- Distance
+[
+[ 4.000595900] >>> Head
+[ 4.057641800] --- Head 3.999602300] --- Steering
+Interrupt!
+ Stopped at time 107435885 (7.674e+00 s)
+tsim> 
